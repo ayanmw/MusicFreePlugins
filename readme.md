@@ -9,3 +9,6 @@
 
 收到了告知函，因此本示例插件仓库不再提供国内音乐厂商的源。
 https://mp.weixin.qq.com/s/NXww80a6YX4rbjwmepL48w
+
+from 2024
+---
